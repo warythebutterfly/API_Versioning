@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qnn0PEvGNDfbVaLNEyaniPqitDCTJxNcRCiPfxNUY2N7pHeEuDbakXv3gCLGC6BXKneTXeKVFSr3lY/76aSzDQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\temit\\source\\repos\\API_Versioning\\API_Versioning\\API_Versioning.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\temit\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

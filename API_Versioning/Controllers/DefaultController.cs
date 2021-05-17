@@ -15,7 +15,7 @@ namespace API_Versioning.Controllers
     {
         string[] authors = new string[]
         {
-            "Yosi Osi","Jaden Smith","Stephen og" 
+            "Yosi Osi","Jaden Smith","Mike og" 
         };
         [HttpGet]
         public IEnumerable<string> Get()
